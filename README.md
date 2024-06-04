@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @PapillonMonarque
-- 👀 I’m interested in MUSIC
-- 🌱 I’m currently learning CODING
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'M AWESOME
+Heyo, I'm Monarque and I'm learning how to code front end
 
 <!---
 PapillonMonarque/PapillonMonarque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
